@@ -1,1 +1,1 @@
-# gosuslugi-covid-cert.github.io
+# tem-mosk.github.io
